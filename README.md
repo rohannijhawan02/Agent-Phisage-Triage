@@ -9,10 +9,6 @@
 
 An analyst-facing Python application that examines email headers, message text, links, and attachments through **four specialist LLM agents**, a **two-round debate**, and an **evidence-anchored judge**. It produces a readable incident report and structured records for review and evaluation.
 
-> [!IMPORTANT]
-> **What works today:** raw-email parsing, specialist/debate orchestration, evidence checks, reports, regression tests, and training/evaluation commands.
->
-> **What is not included:** a curated benchmark, a trained calibration artifact, or measured real-world detection performance. Without a compatible artifact, the final result is `verdict: "needs_review"` and `risk_score: null`. Configuring an LLM alone does not enable calibrated decisions.
 
 ---
 
