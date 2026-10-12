@@ -1,0 +1,36 @@
+Return-Path: <alerts@paypal-secure-login.com>
+Received: from mail.paypal-secure-login.com (mail.paypal-secure-login.com [185.220.101.47])
+	by mx.victim-corp.com (Postfix) with ESMTP id 4F2A1C0931
+	for <jane.doe@victim-corp.com>; Mon, 22 Jun 2026 09:14:03 -0400 (EDT)
+Authentication-Results: mx.victim-corp.com;
+	spf=fail (sender IP is 185.220.101.47) smtp.mailfrom=paypal-secure-login.com;
+	dkim=fail (signature did not verify) header.d=paypal-secure-login.com;
+	dmarc=fail (p=reject) header.from=paypal.com
+From: PayPal Service <service@paypal.com>
+Reply-To: PayPal Support <support@paypal-secure-login.com>
+To: jane.doe@victim-corp.com
+Subject: Your account has been limited - action required within 24 hours
+Date: Mon, 22 Jun 2026 09:14:01 -0400
+Message-ID: <20260622091401.4F2A1C0931@mail.paypal-secure-login.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+
+Dear Customer,
+
+We have detected unusual activity on your PayPal account and have
+temporarily LIMITED your access as a security precaution.
+
+You must verify your identity within 24 HOURS or your account will be
+permanently suspended and any pending transactions will be reversed.
+
+Confirm your account details now to restore full access:
+
+  http://paypal-secure-login.com/verify?id=8821ac
+
+Please enter your email, password, and the card number on file so we can
+confirm your identity.
+
+Failure to act will result in the loss of your account.
+
+PayPal Security Team
+This is an automated message. Please do not reply.

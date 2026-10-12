@@ -1,0 +1,7 @@
+langgraph
+langchain-core
+python-dotenv
+pytest
+requests
+tldextract
+scikit-learn

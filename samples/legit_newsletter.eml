@@ -1,0 +1,38 @@
+Return-Path: <bounce-1234@email.brightloop.com>
+Received: from mta-7.email.brightloop.com (mta-7.email.brightloop.com [198.51.100.23])
+	by mx.victim-corp.com (Postfix) with ESMTPS id 9C1F4C0B77
+	for <jane.doe@victim-corp.com>; Sun, 21 Jun 2026 06:03:11 -0400 (EDT)
+Authentication-Results: mx.victim-corp.com;
+	spf=pass (sender IP is 198.51.100.23) smtp.mailfrom=email.brightloop.com;
+	dkim=pass (signature verified) header.d=brightloop.com;
+	dmarc=pass (p=quarantine) header.from=brightloop.com
+From: BrightLoop Weekly <newsletter@brightloop.com>
+Reply-To: BrightLoop Weekly <newsletter@brightloop.com>
+To: jane.doe@victim-corp.com
+Subject: This week in design: 7 layout tricks + our summer reading list
+Date: Sun, 21 Jun 2026 06:03:08 -0400
+List-Unsubscribe: <https://email.brightloop.com/unsubscribe?u=jane.doe%40victim-corp.com>
+Message-ID: <20260621060308.9C1F4C0B77@mta-7.email.brightloop.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+
+Hi Jane,
+
+Happy Sunday! Here's what we've been reading and making this week.
+
+  - 7 layout tricks that make any page feel more spacious
+  - How a small studio rebranded a 40-year-old bakery
+  - Our team's summer reading list (9 books, 0 business books)
+
+Read the full issue on the web:
+  https://www.brightloop.com/weekly/2026-06-21
+
+Thanks for being a subscriber - we're glad you're here.
+
+The BrightLoop Team
+
+---
+You're receiving this because you subscribed at brightloop.com.
+BrightLoop Media, 88 Harbor St, Suite 200, Portland, OR 97204
+Unsubscribe: https://email.brightloop.com/unsubscribe?u=jane.doe%40victim-corp.com
+Update your preferences: https://email.brightloop.com/preferences
